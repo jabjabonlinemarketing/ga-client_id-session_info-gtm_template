@@ -1,0 +1,5 @@
+homepage: "https://www.jabjab.hu/"
+documentation: "https://github.com/jabjabonlinemarketing/ga-client_id-session_info-gtm_template"
+versions:
+  - sha: 848924f378cd3b0b9361c734811f29cf96d369d5
+    changeNotes: Initial release.
