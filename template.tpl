@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -13,9 +13,8 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Google Analytics Client ID \u0026 Session Information",
-  "categories": ["ANALYTICS", "ADVERTISING", "CONVERSIONS"],
-  "description": "Retrieves Google Analytics storage information from a webpage. It can return a single value (client ID, session ID, session number, or measurement ID) or all of these details in an object.",
+  "displayName": "Client ID \u0026 Session Information from Google Analytics by JabJab",
+  "description": "Return storage information of Google Analytics on a webpage. Template can return either client_id, session_id, session_number or measurement_id or all of this information in an object.",
   "containerContexts": [
     "WEB"
   ]
@@ -496,6 +495,4 @@ setup: |-
 
 ___NOTES___
 
-Created on 8/1/2025, 4:39:16 PM
-
-
+Created on 9/29/2025, 8:49:11 AM
