@@ -1,4 +1,4 @@
-# Google Analytics Client ID & Session Information
+# Client ID & Session Information from Google Analytics by JabJab
 
 Use this Google Tag Manager variable template to easily access Google Analytics session details without directly interacting with Google Analytics cookies.
 
@@ -16,13 +16,13 @@ This GTM variable template leverages the `readAnalyticsStorage` API to retrieve 
     
 -   In the `Variable templates` box, click `Search Gallery`.
     
--   Find the template named "Google Analytics Client ID & Session Information."
+-   Find the template named "Client ID & Session Information from Google Analytics by JabJab"
     
 -   Click `Add to workspace` and follow the on-screen instructions.
 
 ## Usage
 
-Create a new `User Defined Variable` and select "Google Analytics Client ID & Session Information" as the variable type. If you keep all the default settings, the variable will return a JSON object similar to this:
+Create a new `User Defined Variable` and select "Client ID & Session Information from Google Analytics by JabJab" as the variable type. If you keep all the default settings, the variable will return a JSON object similar to this:
 
 ```
 {
